@@ -11,7 +11,8 @@ curl https://sh.rustup.rs -sSf | sh
 ```
 ```
 sudo apt update
-sudo apt install build-essential
+sudo apt install build-essential pkg-config libssl-dev
+
 ```
 ```
 sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
