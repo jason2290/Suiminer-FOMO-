@@ -1,9 +1,6 @@
 # Suiminer-FOMO-
 
 ```
-cargo install --locked --git https://github.com/MystenLabs/sui.git --branch mainnet --features gas-profiler sui
-```
-```
 curl https://sh.rustup.rs -sSf | sh
 ```
 ```
@@ -22,4 +19,11 @@ cargo install coal-cli
 ```
 ```
 coal mine --cores 12
+```
+
+
+
+### 沒用的逼
+```
+cargo install --locked --git https://github.com/MystenLabs/sui.git --branch mainnet --features gas-profiler sui
 ```
